@@ -1,0 +1,7 @@
+DOMAIN,profile.gc.apple.com,reject
+DOMAIN,rt.applovin.com,reject
+DOMAIN,logs.ads.vungle.com,reject
+DOMAIN,odf.app-ads-services.com,reject
+DOMAIN,ep7.facebook.com,reject
+DOMAIN,cf-st.sc-cdn.net,reject
+DOMAIN,googleads.g.doubleclick.net,reject
