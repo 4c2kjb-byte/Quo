@@ -5,3 +5,8 @@ DOMAIN,odf.app-ads-services.com,reject
 DOMAIN,ep7.facebook.com,reject
 DOMAIN,cf-st.sc-cdn.net,reject
 DOMAIN,googleads.g.doubleclick.net,reject
+DOMAIN,server1-cdn.cfd,proxy
+DOMAIN,alive.github.com,proxy
+DOMAIN,api-safari-aeuw1b.smoot.apple.com,proxy
+DOMAIN,api-glb-aeuw1b.smoot.apple.com,proxy
+DOMAIN,api.smoot.apple.com,proxy
