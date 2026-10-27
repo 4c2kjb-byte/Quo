@@ -21,7 +21,6 @@ HOST-SUFFIX,pscdn.co,Spotify
 HOST-SUFFIX,scdn.co,Spotify
 HOST-SUFFIX,spoti.fi,Spotify
 HOST-SUFFIX,spotify-com.akamaized.net,Spotify
-HOST-SUFFIX,spotify-everywhere.com,Spotify
 HOST-SUFFIX,spotify.app.link,Spotify
 HOST-SUFFIX,spotify.com,Spotify
 HOST-SUFFIX,spotify.design,Spotify
@@ -37,4 +36,5 @@ HOST-SUFFIX,tospotify.com,Spotify
 HOST-KEYWORD,spotify,Spotify
 USER-AGENT,Spotify*,Spotify
 IP-CIDR,104.154.127.126/32,Spotify
+IP-CIDR,14.154.127.126/28,Spotify
 IP-CIDR,35.186.224.47/32,Spotify
